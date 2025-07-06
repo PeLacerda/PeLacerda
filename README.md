@@ -1,5 +1,8 @@
 # 👋 Olá, eu sou o Pedro Lacerda!
 
+<img height="100px" src="https://github-readme-stats.vercel.app/api?username=PeLacerda&show_icons=true&theme=dark"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeLacerda&layout=compact&langs_count=16&theme=dark"/>
+
 🎓 **Estudante de Programação**  
 Sou estudante do segundo ano do ensino médio, apaixonado por tecnologia e programação. Tenho 17 anos e estou sempre buscando aprender e criar coisas novas no universo do desenvolvimento web.
 
