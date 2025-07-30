@@ -1,16 +1,77 @@
 # 👋 Olá, eu sou o Pedro Lacerda!
 
-<img height="100px" src="https://github-readme-stats.vercel.app/api?username=PeLacerda&show_icons=true&theme=dark"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeLacerda&layout=compact&langs_count=16&theme=dark"/>
+<div aling="center">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=PeLacerda&show_icons=true&theme=dark"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeLacerda&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+<br>
 
 🎓 **Estudante de Programação**  
 Sou estudante do segundo ano do ensino médio, apaixonado por tecnologia e programação. Tenho 17 anos e estou sempre buscando aprender e criar coisas novas no universo do desenvolvimento web.
 
 ## 🛠️ Especialidades
 
-- **Front-end:** HTML, CSS, JavaScript  
-- **UX/UI Design:** Figma, WIX  
-- **Projetos criativos e interfaces intuitivas**
+<br>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br>
 
 ## 💼 Projeto em Destaque
 
@@ -36,5 +97,5 @@ Meu principal projeto até agora é uma Pokédex desenvolvida para praticar meus
 ---
 
 <div align="center">
-  Prazer Pedro Lacerda
+  Prazer, Pedro Lacerda!
 </div>
