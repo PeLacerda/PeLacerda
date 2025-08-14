@@ -8,7 +8,7 @@
 <br>
 
 🎓 **Estudante de Programação**  
-Sou estudante do segundo ano do ensino médio, apaixonado por tecnologia e programação. Tenho 17 anos e estou sempre buscando aprender e criar coisas novas no universo do desenvolvimento web.
+Sou estudante do segundo ano do ensino médio e cursando técnico, apaixonado por tecnologia e programação. Tenho 17 anos e estou sempre buscando aprender e criar coisas novas no universo do desenvolvimento web.
 
 ## 🛠️ Especialidades
 
@@ -77,7 +77,7 @@ Sou estudante do segundo ano do ensino médio, apaixonado por tecnologia e progr
 
 [![Pokédex](https://img.shields.io/badge/Projeto-Pokédex-blue?style=flat-square&logo=pokemon)](https://github.com/PeLacerda/pokedex)
 
-Meu principal projeto até agora é uma Pokédex desenvolvida para praticar meus conhecimentos em front-end e design. Confira no meu repositório!
+Meu principal projeto até agora é uma Pokédex desenvolvida para praticar meus conhecimentos em front-end, banco de dados e design. Confira no meu repositório!
 
 ## ✨ Sobre mim
 
