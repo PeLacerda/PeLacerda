@@ -40,14 +40,6 @@ Sou estudante do segundo ano do ensino médio e cursando técnico, apaixonado po
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -70,6 +62,16 @@ Sou estudante do segundo ano do ensino médio e cursando técnico, apaixonado po
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+  align="left" 
+  alt="Python" 
+  title="Ruby"
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+/>
+          
+
 
 <br>
 
